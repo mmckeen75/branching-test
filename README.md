@@ -1,4 +1,4 @@
-# branching-test Project Awesomme 2
+# branching-test Project Awesomme
 Repository to test out different branching techniques
 
 
