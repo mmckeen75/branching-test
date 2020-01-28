@@ -2,4 +2,5 @@
 Repository to test out different branching techniques
 
 
-Main Branch README
+Master Branch README
+Added some more stuff to the master branch
